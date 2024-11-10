@@ -1,4 +1,4 @@
-# Character_Classifier
+#Personality and Interest Patterns Analysis
 # Personality Detection Using Machine Learning
 
 ## Project Overview
